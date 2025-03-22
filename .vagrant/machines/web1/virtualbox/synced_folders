@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"H:/vagrant-balanceo/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"H:/vagrant-balanceo","disabled":false,"__vagrantfile":true}}}
